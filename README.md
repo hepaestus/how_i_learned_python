@@ -10,3 +10,12 @@ Recursive functions are functions that call themselves until a certain limit is 
 ### Koch Curve
 ![koch_curve_01.jpg](koch_curve_01.jpg)
 
+### Sierpinski Triangle
+![sierpinski_triangle_01.jpg](sierpinski_triangle_01.jpg)
+
+### Recursive Stars
+![resursive_n_point_stars_01.jpg](resursive_n_point_stars_01.jpg)
+
+![stars_odd_n_sides_02.jpg](stars_odd_n_sides_02.jpg)
+
+![stars_odd_n_sides_03.jpg](stars_odd_n_sides_03.jpg)
