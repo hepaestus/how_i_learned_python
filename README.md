@@ -16,7 +16,29 @@ Recursive functions are functions that call themselves until a certain limit is 
 
 ### Install Libraries
 
-$ pip install -r requirements.txt
+ $ sudo apt install python3-tk
+
+#### Requirements.txt
+
+ $ pip install -r requirements.txt
+
+### Python Basics
+
+```python
+print("Hello World")
+```
+
+#### Some Key words
+
+* import - brings in other code to use in your program
+* indentation - mandatory and defines codes sections 
+* def - defines a method
+
+#### Concepts
+
+* conditional statelments
+* loops
+* variables
 
 ## Images
 
@@ -26,6 +48,7 @@ $ pip install -r requirements.txt
 [koch_01.py](koch_01.py)
 
 ### Sierpinski Triangle
+
 ![images/sierpinski_triangle_01.jpg](sierpinski_triangle_01.jpg)
 
 [sierpinski_triangle_01.py](sierpinski_triangle_01.py)
